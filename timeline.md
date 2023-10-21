@@ -80,6 +80,9 @@ grimdark
 ## Jasmine Jefferson is elected first President (Light)
 ## Failed assassination attempt on Jasmine Jefferson by Nazi apologist (Light)
 
+# 2039 - The Corporate War
+## Los Angeles destroyed by Meta attack targeting an Amazon Facility (Dark) 
+## President Jefferson condemns Meta's actions, but does not prosecute, leading to escalation (Dark)
 
 # 2044 - Clonegate
 ### Questions arise about BioTechnica's Leadership Ethics re: cloning (Dark)
@@ -107,7 +110,8 @@ grimdark
 
 
 Focus 1: The development of BioTechnica
-
+Focus 2: The Frogs
+Focus 3: The Corporate War
 
 # Notes
 ## MegaCorps
