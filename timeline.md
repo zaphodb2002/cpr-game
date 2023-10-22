@@ -81,9 +81,13 @@ grimdark
 ## Failed assassination attempt on Jasmine Jefferson by Nazi apologist (Light)
 
 # 2039 - The Corporate War
-## Los Angeles destroyed by Meta attack targeting an Amazon Facility (Dark) 
+## Los Angeles destroyed by Meta attack targeting an Amazon Facility with WMDs (Dark) 
 ## President Jefferson condemns Meta's actions, but does not prosecute, leading to escalation (Dark)
-
+## Zuckerberg is assassinated in a retaliatory attack (Light)
+## Protests erupt across the WCA over corporate violence and government oversight (Dark)
+## Counter-protests become violent as activists shut down supply lines and interfere in daily life (Dark)
+## 2040 - Former Militech CEO Geoff Saturday is elected president of WCA (Dark)
+## Gov. security contract is given to Militech, establishing them as a federal police force (Dark)
 # 2044 - Clonegate
 ### Questions arise about BioTechnica's Leadership Ethics re: cloning (Dark)
 # 2045 - Game Begins
@@ -100,6 +104,7 @@ grimdark
 - Human Cloning (Jay)
 - Clonegate board members (Josh)
 - AmeriFrog (Jay)
+- 2039 Corporate Protests (Steph)
 - 
 
 
@@ -110,8 +115,9 @@ grimdark
 
 
 Focus 1: The development of BioTechnica
-Focus 2: The Frogs
+Focus 2: The Frogs 
 Focus 3: The Corporate War
+Focus 4: Militech's integration into government
 
 # Notes
 ## MegaCorps
